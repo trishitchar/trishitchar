@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **trishitchar@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny.**
+- ⚡ Fun fact **There is no fun in my life. Only code **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
