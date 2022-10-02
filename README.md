@@ -35,3 +35,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trishitchar&show_icons=true&locale=en" alt="trishitchar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trishitchar&" alt="trishitchar" /></p>
+<p align="center">
+  <img src="https://github.com/Sanket1308/Sanket1308/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
