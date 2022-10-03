@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/trishitchar/trishitchar/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
 <h1 align="center">Hi 👋, I'm Trishit Char</h1>
 <h2 align="center">A passionate frontend developer from India</h2>
 
