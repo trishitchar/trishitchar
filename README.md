@@ -9,7 +9,7 @@
 
 <h3 align="start">hacktoberfest Badge 🔥👇🏻👇🏻👇🏻👇🏻</h3>
 
-<img align="center" alt="holopin" width="400" src="https://holopin.io/api/user/board?user=trishitchar">
+<img align="center" alt="holopin" src="https://holopin.io/api/user/board?user=trishitchar">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trishitchar&label=Profile%20views&color=0e75b6&style=flat" alt="trishitchar" /> </p>
