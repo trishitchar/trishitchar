@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Trishit Char</h1>
-<h2 align="center">A passionate frontend developer from India</h2>
+<h2 align="center">A passionate Full Stack Developer from India</h2>
 
 <!-- <img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> -->
 
